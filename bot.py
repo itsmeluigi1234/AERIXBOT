@@ -40,7 +40,7 @@ start_time = datetime.utcnow()
 # -------------------
 # Guild ID for instant sync
 # -------------------
-GUILD_ID = 123456789012345678  # <- Replace with your server ID
+GUILD_ID = 1481894996184530957  # <- Replace with your server ID
 
 # -------------------
 # Settings & warnings
